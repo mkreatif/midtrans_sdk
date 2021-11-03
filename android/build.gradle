@@ -30,6 +30,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.midtrans:uikit:1.29.3-SANDBOX'
+    implementation 'com.midtrans:uikit:1.29.3'
     // releaseImplementation 'com.midtrans:uikit:1.28.0'
 }
