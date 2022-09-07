@@ -1,3 +1,13 @@
+## 0.3.4
+
+- Add `capture` in TransactionResultStatus
+
+## 0.3.3
+
+- [Android] Change repositories from `jcenter` to `mavenCentral`
+- [Android] Upgrade UIKit to `1.30.1`
+- [iOS] Upgrade MidtransKit to `1.20.1`
+
 ## 0.3.2
 
 - [Android] Use sandbox environment SDK for debug and profile builds.
