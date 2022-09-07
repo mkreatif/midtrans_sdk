@@ -1,3 +1,7 @@
+## 0.3.5
+- [Android] Upgrade UIKit to `1.32.0`
+- [iOS] Upgrade MidtransKit to `1.22.0`
+
 ## 0.3.4
 
 - Add `capture` in TransactionResultStatus
