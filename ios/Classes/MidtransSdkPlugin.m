@@ -1,5 +1,5 @@
 #import "MidtransSdkPlugin.h"
-#import <MidtransKit/MidtransKit.h>
+#import <MidtransKit2/MidtransKit.h>
 
 @interface MidtransSdkPlugin () <MidtransUIPaymentViewControllerDelegate>
 @end
